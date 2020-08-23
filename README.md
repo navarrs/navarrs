@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Robotics Engineer :robot:. 
-
+<img src="https://newevolutiondesigns.com/images/freebies/robot-wallpaper-8.jpg">
 
 <!--
 **navarrs/navarrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
