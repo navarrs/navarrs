@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/120822101138-robot-rosie-story-top.jpg" align="left" width="150">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120822101138-robot-rosie-story-top.jpg" align="left" width="300">
 I am a Robotics Engineer. 
 
 
