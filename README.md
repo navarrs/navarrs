@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://i.pinimg.com/originals/6d/23/41/6d2341915e2d4ab82a4e7e7fc437eaaf.jpg" align="left" width="100">
-Robotics Engineer
+
 
 
 <!--
